@@ -1,0 +1,38 @@
+/****** start blue theme ******/
+
+/*  Active Link */
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active,
+.option-box .gear-check
+
+{
+	background-color: #26bf14;
+}
+
+
+.about h1 span,
+.features .feat span.glyphicon,
+.testimonials span,
+.footer h3,
+.footer .copyright span,
+.container .navbar-brand:hover
+{ 
+	color: #26bf14;
+}
+
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+	border: 3px solid #26bf14;
+} 
+
+.dropdown-menu { border: 1px solid #26bf14; }
+ 
+/****** end blue theme ******/
