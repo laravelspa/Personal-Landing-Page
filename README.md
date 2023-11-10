@@ -10,7 +10,7 @@ An 8-section landing page created for the purpose of the exercise
 - **Javascript** (Scripting Language)
 
 ## Frontend Framework
-- **Custom CSS**
+- **Bootstrap**
 
 ## Javascript Library
 - **JQuery**
